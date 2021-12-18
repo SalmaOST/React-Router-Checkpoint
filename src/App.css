@@ -1,0 +1,100 @@
+body {
+	background: #141414;
+	color: #ffffff;
+}
+
+.Pic{
+  margin: 0 6px;
+  position: relative;
+  transition: tranform 0.2s;
+  width: 250px;
+  height: 300px;
+}
+
+.Title{
+  text-align: center;
+  font-size: 25px;
+}
+
+.Violet{
+  margin-left: 12px;
+  text-decoration: underline;
+}
+
+.Naruto{
+  margin-left: 10px;
+  text-decoration: underline;
+}
+
+.Final{
+  margin-left: 45px;
+  text-decoration: underline;
+}
+
+.Dragon{
+  margin-left: 30px;
+  text-decoration: underline;
+}
+.button{
+  height: 26px; 
+  width: 75px;
+  margin-left:50%;
+  background-color: #0e0d0d;
+  border-radius: 20px;
+  margin: 0 50% 4px ;
+  border: 0px;
+  color: #636262;
+ 
+}
+
+.Movies{
+  text-align: center;
+  color: rgb(54, 51, 51);
+}
+
+.Type{
+  width: 400px;
+  height: 35px;
+  border: 0px;
+  margin-left: 36%;
+  border-radius: 20px;
+  background-color: #b3b1b1;;
+  
+}
+
+.Add-m{
+  width: 450px;
+  height: 35px;
+}
+.add{
+  text-align: center;
+  color: #141414;
+  font-weight: 600;
+}
+
+.Pic:hover{
+  cursor: pointer;
+  transform: scale(1.1)
+}
+
+.search{
+  margin-bottom: 20px;
+  margin-top: 5px;
+
+}
+
+
+.Url{
+  cursor: pointer;
+  color: rgb(6, 94, 94);
+}
+
+.rating{
+background-color: rgb(225, 228, 181);
+text-align: center;
+  
+}
+
+.body{
+  background:saddlebrown
+}
